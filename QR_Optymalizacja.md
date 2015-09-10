@@ -1,6 +1,6 @@
 ***Wariant I QR - Optymalizacja - Minimum potrzebnych znaków -  Zapis textowy*** 
 
-- Zważywszy na fakt, iż zgodnie z prawem wyborczym pojedynczy obwód w Polsce obejmuje od 500 do 3000 mieszkańców - można przyjąć - jesli skupiamy się tylko na przekazaniu wyniku wyborów z terytorium Polski ("Cała Zagranica głosuje na okręg Warszawa), że będziemy potrzebowali  mniejszą ilość znaków na przekazanie danych z protokołu wyborczego dla poszczególnej OKW
+- Zważywszy na fakt, iż zgodnie z prawem wyborczym pojedynczy obwód w Polsce obejmuje od 500 do 3000 mieszkańców - można przyjąć - jesli skupiamy się tylko na przekazaniu wyniku wyborów z terytorium Polski ,że będziemy potrzebowali mniejszą ilość znaków na przekazanie danych z protokołu wyborczego dla poszczególnej OKW
 - Skupiamy się tylko i wyłącznie na przekazaniu danych liczbowych dotyczących wyników wyborów
  
  **Nagłówek:**  
