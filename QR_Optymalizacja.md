@@ -50,12 +50,3 @@ Rezygnujemy z przekazania tych danych
 *Co daje oszczędność 4283 znaków*
 
 **Łącznie cały string równa się: 5981 znaki**
-
-***Wariant II Zapis Binarny*** 
-
-
-
-
-
-
-
