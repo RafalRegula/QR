@@ -62,7 +62,10 @@ Rozliczenie kart:
 5. Głosujący przez pełnomocnika - 4 znaków +1 rozdzielający
 6. Głosujący na podstawie zaświadczenia - 4 znaków +1 rozdzielający
 
+
+
 Rozliczenie głosowania korespondencyjnego:
+
 7. Wydano pakietów - 3 znaków +1 rozdzielający
 8. Otrzymano koperty zwrotne - 3 znaków +1 rozdzielający
 
