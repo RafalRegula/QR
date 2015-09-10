@@ -55,13 +55,13 @@ TERYT – 6 znaków + 1 rozdzielający
 Nr obwodu – 4 znaki + 1 rozdzielający
 
 Rozliczenie kart:
+
 1. Uprawnieni do głosowania - 4 znaków +1 rozdzielający
 2. Otrzymane karty do głosowania - 4 znaków +1 rozdzielający
 3. Niewykorzystane karty - 4 znaków +1 rozdzielający
 4. Wydano kart do głosowania - 4 znaków +1 rozdzielający
 5. Głosujący przez pełnomocnika - 4 znaków +1 rozdzielający
 6. Głosujący na podstawie zaświadczenia - 4 znaków +1 rozdzielający
-
 
 
 Rozliczenie głosowania korespondencyjnego:
