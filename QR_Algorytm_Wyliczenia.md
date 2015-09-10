@@ -1,4 +1,4 @@
-*** QR - Optymalizacja III -  Zapis binanry*** 
+*** QR - Optymalizacja III -  Zapis binarny*** 
 
 **Założenia:**
 - Po przeanalizowaniu próbkowo i wybiórczo zbioru 100 protokołów wyborczych z terenu RP liczba kandydatów którzy nie otrzymali zadnych głósów  w OKW  wynosi od  ok 60 - 69 %. Mozna więc przyjąć i uśredniając ten wynik, iż statystycznie  liczba ta oscyluje w granicach  65 %  
